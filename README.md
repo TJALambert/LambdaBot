@@ -1,0 +1,2 @@
+# LambdaBot
+Discord Bot
